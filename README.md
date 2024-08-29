@@ -19,3 +19,13 @@ After completing the traning process, the model will be stored at models/fire
 - Inference with live camera: python3 ssd_inference.py
 
 
+# Training process
+![image](https://github.com/user-attachments/assets/74b9357e-62fc-4dc8-a583-1128365de1db)
+
+
+# Inference with live cam
+![image](https://github.com/user-attachments/assets/2b34a44d-b7f6-4e02-9ec5-9924c6dd70b6)
+
+
+
+
